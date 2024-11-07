@@ -3,7 +3,7 @@ header_type: splash
 layout: landingpage
 title: Hidalgo Lab
 subtitle: Washington State University
-header_img : "./assets/images/video.mp4"
+header_img : ""
 ---
 <link href="/assets/css/main.css" rel="stylesheet" />
 

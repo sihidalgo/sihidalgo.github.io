@@ -5,7 +5,9 @@ title: Team
 <div class="chulapa-bg-landingpage">
 	{% include components/headers.html projects=page.project_links %}
 </div>
+<link href="/assets/css/main.css" rel="stylesheet" />
 <link href="/assets/css/Team.css" rel="stylesheet" />
+
 
 <section id="team" class="team-area section-padding">    
 	<div class="container">

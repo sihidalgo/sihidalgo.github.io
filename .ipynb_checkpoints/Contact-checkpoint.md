@@ -3,7 +3,7 @@ layout: default
 title: Contact
 header_type: hero
 ---
-
+<link href="/assets/css/main.css" rel="stylesheet" />
 The lab is part of the Integrative Physiology and Neuroscience Department, located in the Veterinary Biomedical Research Building on Washington State University's Pullman Campus.
 
 

@@ -4,7 +4,7 @@ title: Join us!
 subtitle: Opportunities in the Hidalgo Lab
 header_type: hero
 ---
-
+<link href="/assets/css/main.css" rel="stylesheet" />
 <span style="color:red">Our lab will start accepting students in Summer 2025!</span>
 
 We are looking for motivated researchers with experience in various topics such as neuroscience, circadian rhythms, *Drosophila* neurobiology, and molecular biology.

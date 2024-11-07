@@ -3,7 +3,7 @@ layout: default
 title: Publications
 header_type: hero
 ---
-
+<link href="/assets/css/main.css" rel="stylesheet" />
 ## Articles
 
 1.	Tabuloc, C. A., Carlson, C. R., Ganjisaffar, F., Truong, C. C., Chen, C.-H., Lewald, K. M., **Hidalgo, S.**, Nicola, N. L., Jones, C. E., Sial, A. A., Zalom, F. G., & Chiu, J. C. (2024) Transcriptome Analysis of Drosophila Suzukii Reveals Molecular Mechanisms Conferring Pyrethroid and Spinosad Resistance. Scientific Reports, 14 (1), 19867. [https://doi.org/10.1038/s41598-024-70037-x](https://doi.org/10.1038/s41598-024-70037-x)

@@ -3,6 +3,7 @@ layout: landingpage
 title: Techniques
 header_type: hero
 ---
+<link href="/assets/css/main.css" rel="stylesheet" />
 <style>
 .jumbotron{
   

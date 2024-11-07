@@ -1,6 +1,6 @@
 ---
 header_type: splash
-layout: landingpage
+layout: minimal
 title: Hidalgo Lab
 subtitle: Washington State University
 header_img : ""

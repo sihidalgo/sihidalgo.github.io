@@ -155,7 +155,7 @@ chulapa-skin:
   vars          :    
     primary     : "#FF0000" #default ["#007bff"] - Bootstrap blue
     font-family-base: "Quicksand"
-    heading-font-family: "Quicksand"
+    headings-font-family: "Quicksand"
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 

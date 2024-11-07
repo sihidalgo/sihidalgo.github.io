@@ -5,6 +5,8 @@ title: Hidalgo Lab
 subtitle: Washington State University
 header_img : "./assets/images/video.mp4"
 ---
+<link href="/assets/css/main.css" rel="stylesheet" />
+
 <style>
 .jumbotron {
   font-size: 25px;
@@ -94,4 +96,5 @@ We seek to understand the mechanisms driving seasonal physiology and diseases. P
   </div>
 </div>
 <br>
+
   

@@ -8,6 +8,23 @@ header_img : "./assets/images/video.mp4"
 <link href="/assets/css/main.css" rel="stylesheet" />
 
 <style>
+.video-banner video {
+       position: relative; 
+       left: 0; 
+       top: 0; 
+       width: 100%; 
+       height: 100%; 
+       object-fit: cover; }
+    
+.video-banner .text-overlay { 
+    position: absolute; 
+    left: 0; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    text-align: center; 
+    width: 100%; 
+    opacity: 0.8; }
+      
 .jumbotron {
   font-size: 25px;
   text-align:justify; 
@@ -36,6 +53,16 @@ header_img : "./assets/images/video.mp4"
   opacity: 1;
 }
 </style>
+
+
+<div class="video-banner" style="height: 750px;">
+   <video src="./assets/images/video.mp4"  autoplay="" preload="auto" loop="" playsinline="" disablepictureinpicture="" disableremoteplayback="" webkit-playsinline="" muted=""></video>
+  <div class="d-flex align-items-center hero-chulapa">
+      <div class="text-overlay">
+    <h1 class="p-name" >{{- page.title | default: "Where's your title?" -}}</h1>
+    <hr class="my-3">
+    <p class="chulapa-subtitle p-summary">{{- page.subtitle -}}</p></div></div>
+  </div>
 
 <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(/assets/images/banner1.tif);">
 <h1>Our question</h1>   

@@ -1,0 +1,39 @@
+---
+layout: minimal
+---
+<div class="chulapa-bg-landingpage">
+	{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
+</div>
+<div class="chulapa-bg-landingpage flex-fill">
+    {{- content -}}
+		
+	</main>
+</div>
+	<div class="chulapa-bg-landingpage">
+	{%- if page.show_bottomnavs -%}
+	<div class="chulapa-landingpage-color">
+	  {%- include components/navbeforeafter.html -%}
+	  </div>
+	{%- endif -%}
+	{%- if page.show_categories -%}
+	{% assign size = page.categories | size %}
+	{% if size > 0 %}
+	<div class="chulapa-landingpage-badges">
+  	{%- include components/categories.html-%}
+  </div>
+  {% endif %}
+	{%- endif -%}
+	{%- if page.show_tags -%}
+	{% assign size = page.tags | size %}
+	{% if size > 0 %}
+	<div class="chulapa-landingpage-badges chulapa-landingpage-tag">
+	  {%- include components/tags.html-%}
+	</div>
+	{% endif %}
+	{%- endif -%}
+	</div>
+	{%- if page.show_related -%}
+	<div class="chulapa-landingpage-related">
+	  {%- include components/related.html -%}
+	  </div>
+	{%- endif -%}

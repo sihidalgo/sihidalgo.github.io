@@ -8,7 +8,7 @@ header_img : ""
 <link href="/assets/css/main.css" rel="stylesheet" />
 
 <style>
-.video-banner  {
+.video-banner video {
        position: relative; 
        left: 0; 
        top: 0; 
@@ -16,7 +16,7 @@ header_img : ""
        height: 100%; 
        object-fit: cover; }
     
-.text-overlay { 
+.video-banner .text-overlay { 
     position: absolute; 
     left: 0; 
     top: 50%; 

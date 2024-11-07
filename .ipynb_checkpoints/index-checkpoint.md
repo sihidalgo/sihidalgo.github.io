@@ -70,7 +70,7 @@ We seek to understand the mechanisms driving seasonal physiology and diseases. P
   <div class="card">
       <h3 class="card-title">Our approach</h3>
       <p class="card-text">Looking for a protocol?</p><br>
-      <img class="card-img-bottom" src="/assets/images/cards/video.mp4" alt="Techniques">
+      <video class="card-img-bottom" src="/assets/images/cards/video.mp4" autoplay="" preload="auto" loop="" playsinline="" disablepictureinpicture="" disableremoteplayback="" webkit-playsinline="" muted=""></video>
       <a href="/Science/Techniques" class="stretched-link"></a>
   </div>
   <div class="card">

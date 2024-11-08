@@ -31,7 +31,7 @@ header_type: hero
 <div class="jumbotron">
 <div style="float:left;width:60%;">
 <h1>Our overall questions</h1>
-<h3>The human brain plastically changes across seasons. This affects its function, potentially affecting disease  How is this process regulated? How is it orchestrated across the entire organ? These are some of the questions our lab wants to address.</h3>
+<h3>The human brain plastically changes across seasons.  How is this process regulated? How is it orchestrated across the entire organ? What are the components driving this process? These are some of the questions our lab wants to address.</h3>
 </div>
 <div style="float:right;width:35%;">
 <img src="/assets/images/research/Overall.png" alt="Overall">
@@ -44,7 +44,7 @@ header_type: hero
 <h1>Integration of seasonal cues by the circadian clock</h1>
 <div style="float:left;width:50%;">
 <p>
-Organisms adapt to seasonal changes in photoperiod and temperature to survive; however, the mechanisms by which these signals are integrated in the brain are poorly understood. Several studies have shown that both element types undergo several molecular changes across seasons but the role of these modifications for seasonal adaptations is unclear. We are interested in understanding how changes in the molecular clock, in particular splicing, are triggered by seasonal cues and how this clock rearrangement participates in calendar timekeeping. We are also investigating how the clock conveys this information to endocrine centers through the expression and action of circadian neuropeptides.</p> 
+Organisms adapt to seasonal changes in photoperiod and temperature to survive; however, the mechanisms by which these signals are integrated in the brain are poorly understood. We are interested in understanding how changes in the molecular clock, in particular splicing, are triggered by seasonal cues and how this clock rearrangement participates in calendar timekeeping. We are also investigating how the clock conveys this information to endocrine centers through the expression and action of circadian neuropeptides.</p> 
 <br>
 <b>Selected publications:</b>
 <br>

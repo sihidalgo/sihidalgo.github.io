@@ -12,7 +12,7 @@ We are looking for motivated researchers with experience in various topics such 
 
 ## Undergraduates
 
-Undergraduates are welcome in the lab at any time! If you are interested, please contact Sergio Hidalgo. 
+Undergraduates are welcome in the lab at any time! If you are interested, please contact Sergio Hidalgo to discuss possible oportunities. 
 
 <hr>
 

@@ -7,7 +7,7 @@ header_type: hero
 
 <style>
 .jumbotron{
-  
+   
   text-align:justify; 
   overflow:hidden; 
 

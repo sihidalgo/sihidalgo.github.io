@@ -73,7 +73,7 @@ header_img : ""
 <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(/assets/images/banner2.tif);">
 <h1>Our goal</h1>      
 <p style="float:left; width:70%;">
-We seek to understand the mechanisms driving seasonal physiology and diseases. Particularly, we focus in the role of the circadian clock, the mechanism that allows organisms to adjust to the day/night cycles in the changing seasonal brain, in this process.
+We seek to understand the mechanisms driving seasonal physiology and diseases. Particularly, we focus on the role of the circadian clock, the mechanism that allows organisms to adjust to the day/night cycles, in the changing seasonal brain.
 <br>
 <br>
 <a type="button" href="/Science/Research" class="btn btn-outline-light">Current Projects</a>    

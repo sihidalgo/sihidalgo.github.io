@@ -11,7 +11,7 @@ header_type: hero
 
 2.	Cai, Y. D., Chow, G. K., **Hidalgo, S.**, Liu, X., Jackson, K. C., Vasquez, C. D., Gao, Z. Y., Lam, V. H., Tabuloc, C. A., Zheng, H., Zhao, C., & Chiu, J. C. (2024). Alternative splicing of clock transcript mediates the response of circadian clocks to temperature changes. bioRxiv: the preprint server for biology, 2024.05.10.593646. [https://doi.org/10.1101/2024.05.10.593646](https://doi.org/10.1101/2024.05.10.593646) (Pre-print)
 
-3.	Umezaki, Y., **Hidalgo, S.**, Nguyen, E., Nguyen, T., Suh, J., Uchino, S. S., Chiu, J. C., Hamada, F. N. (2024) Taste triggers a homeostatic temperature control in Drosophila. eLife, 13:RP94703. [https://doi.org/10.7554/eLife.94703.2 ](https://doi.org/10.7554/eLife.94703.2)
+3.	Umezaki, Y., **Hidalgo, S.**, Nguyen, E., Nguyen, T., Suh, J., Uchino, S. S., Chiu, J., & Hamada, F. (2024). Taste triggers a homeostatic temperature control in hungry flies. eLife, 13, RP94703. [https://doi.org/10.7554/eLife.94703](https://doi.org/10.7554/eLife.94703). Previously published in *bioRxiv* doi: [https://doi.org/10.1101/2022.09.30.510382](https://doi.org/10.1101/2022.09.30.510382).
 
 4.	**Hidalgo, S.**, & Chiu, J. C. (2023). Integration of photoperiodic and temperature cues by the circadian clock to regulate insect seasonal adaptations. Journal of Comparative Physiology A,[https://doi.org/10.1007/s00359-023-01667-1](https://doi.org/10.1007/s00359-023-01667-1)  **(Review Article)**
 

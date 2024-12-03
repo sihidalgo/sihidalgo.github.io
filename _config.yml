@@ -28,7 +28,7 @@ author:
     - url: https://x.com/SergioHidalgoSo
       icon: "fa-brands fa-x-twitter"
       label: "My personal Twitter/X"
-    - url: shidalgosotelo@gmail.com
+    - url: s.hidalgosotelo@wsu.edu
       icon: far fa-envelope
       label: "My personal email"
 
@@ -109,6 +109,8 @@ navbar:
         url   : /Science/Techniques
   - title   : Team
     url     : /Team
+  - title   : News
+    url     : /blog
   - title   : Contact
     url     : /Contact
   - title   : Join us
@@ -119,6 +121,7 @@ navbar:
         url   : https://github.com/ClockLabX/CRUMB
       - title : BDSC
         url   : https://bdsc.indiana.edu
+    
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
@@ -163,14 +166,6 @@ paginate: 4
 paginate_path: "/blog/page:num/"
 paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
 
-# Collections https://jekyllrb.com/docs/step-by-step/09-collections/
-collections:
-  cheatsheet:
-    output: true
-    permalink: /cheatsheets/:name
-collections_dir     : 
-permalink           : /:year:month:day_:title/
-
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
@@ -203,19 +198,6 @@ defaults:
       breadcrumb_list   :
         - label: Blog
           url: /blog/
-  -
-    scope:
-      path: ""
-      type: "cheatsheet"
-    values:
-      header_type       : "hero"
-      show_bottomnavs   : true
-      show_sociallinks  : true
-      include_on_search : true
-      show_breadcrumb   : true
-      breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
   -
     scope:
       path: "assets/images/gallery"

@@ -24,13 +24,18 @@ author:
   name                  :      Hidalgo Lab
   avatar                : 
   location              :      "Davis, US"
-  links:                
+  links:
     - url: https://x.com/SergioHidalgoSo
       icon: "fa-brands fa-x-twitter"
       label: "My personal Twitter/X"
+    - url: https://bsky.app/profile/sergiohidalgo.bsky.social
+      icon: "fa-brands fa-bluesky"
+      label: "My personal BlueSky"
     - url: s.hidalgosotelo@wsu.edu
-      icon: far fa-envelope
+      icon: "far fa-envelope"
       label: "My personal email"
+               
+    
 
 fa_version: #default ["6"] Use 6 or 5
 fa_kit_code: # Your FontAwesome kit code. If not provided a free hosted version (slower) will be loaded:  https://fontawesome.com/ 
@@ -140,6 +145,9 @@ footer:
     - label: "Mail"   
       icon: "far fa-envelope"
       url: s.hidalgosotelo@wsu.edu
+    - label: "BlueSky" 
+      icon: "fa-brands fa-bluesky"
+      url: https://bsky.app/profile/sergiohidalgo.bsky.social
 
   copyright: # default is © <year> <name> 
   

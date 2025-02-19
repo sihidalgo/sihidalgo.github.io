@@ -7,10 +7,10 @@ header_type: hero
 
 ## Articles
 
-1. **Hidalgo, S.**, Cai, Y.D. Focusing on Excellence: An Interview With Dr. Charlotte Helfrich-Förster. Journal of Biological Rhythms. 2025;0(0). doi:[https://doi.org/10.1177/07487304251316916](https://doi.org/10.1177/07487304251316916)
+1. **Hidalgo, S.**, Cai, Y.D. Focusing on Excellence: An Interview With Dr. Charlotte Helfrich-Förster. Journal of Biological Rhythms. 2025;0(0). doi:[https://doi.org/10.1177/07487304251316916](https://doi.org/10.1177/07487304251316916) **(Co-first author)**
 
 
-2. Fuenzalida-Uribe, N., **Hidalgo, S.**, Silva, B., Gandhi, S., Vo, D., Zamani, P., Holmes, T.C., Sayin, S., Grundwald-Kadow, I., Hadjieconomou, D., O’Dowd, D.K., Campusano, J.M. (2025). The Innexin 7 gap junction protein contributes to synchronized activity in the Drosophila antennal lobe and regulates olfactory function. bioRxiv 2025.01.19.633780. doi: [https://doi.org/10.1101/2025.01.19.633780](https://doi.org/10.1101/2025.01.19.633780) **Co-first author**
+2. Fuenzalida-Uribe, N., **Hidalgo, S.**, Silva, B., Gandhi, S., Vo, D., Zamani, P., Holmes, T.C., Sayin, S., Grundwald-Kadow, I., Hadjieconomou, D., O’Dowd, D.K., Campusano, J.M. (2025). The Innexin 7 gap junction protein contributes to synchronized activity in the Drosophila antennal lobe and regulates olfactory function. bioRxiv 2025.01.19.633780. doi: [https://doi.org/10.1101/2025.01.19.633780](https://doi.org/10.1101/2025.01.19.633780) **(Co-first author)**
 
 3.	Cai, Y. D., Liu, X., Chow, G. K., **Hidalgo, S.**, Jackson, K. C., Vasquez, C. D., Gao, Z. Y., Lam, V. H., Tabuloc, C. A., Zheng, H., Zhao, C., & Chiu, J. C. (2024).Alternative splicing of *Clock* transcript mediates the response of circadian clocks to temperature changes. Proc. Natl. Acad. Sci. U.S.A. 121 (50) e2410680121. [https://doi.org/10.1073/pnas.2410680121](https://doi.org/10.1073/pnas.2410680121). Previously published in *bioRxiv* doi: [https://doi.org/10.1101/2024.05.10.593646](https://doi.org/10.1101/2024.05.10.593646)
 

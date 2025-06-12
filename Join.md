@@ -16,11 +16,11 @@ We are currently looking for Research Interns. If you are interested, please app
 
 [Research Intern - Hidalgo Lab](https://wsu.wd5.myworkdayjobs.com/en-US/WSU_Jobs/details/Research-Intern_R-13648)
 
-*Required Qualifications:*
+**Required Qualifications:**
 - Positions require a Bachelor’s degree in a relevant field of study or equivalent related field experience performing work with research, scientific or clinical research protocols. Any combination of relevant education and experience may be substituted for the educational requirement on a year-for-year basis.
 - Demonstrated strong oral and written communication skills.
   
-*Preferred Qualifications:*
+**Preferred Qualifications:**
 - Experience working with Drosophila.
 - Experience working with cell cultures (primary cell cultures or lines).
 - Experience in molecular biology techniques.

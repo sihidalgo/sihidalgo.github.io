@@ -21,7 +21,7 @@ We are currently looking for Research Interns. If you are interested, please app
 - Demonstrated strong oral and written communication skills.
   
 **Preferred Qualifications:**
-- Experience working with Drosophila.
+- Experience working with *Drosophila*.
 - Experience working with cell cultures (primary cell cultures or lines).
 - Experience in molecular biology techniques.
 - Experience with fluorescence microscopy (e.g., widefield, confocal, or super-resolution).

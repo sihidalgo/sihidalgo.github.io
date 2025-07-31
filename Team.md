@@ -26,7 +26,7 @@ title: Team
 					</div>
 				</div>
 			</div><!--- END COL -->
-			<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+			<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
 				<div class="our-team">
 					<img src="/assets/images/team/ChristineTabuloc.jpg" alt="Christine Tabuloc">
 					<div class="team-content">
@@ -36,10 +36,9 @@ title: Team
 				</div>
 			</div><!--- END COL -->
 		</div><!--- END ROW -->
-	</div><!--- END CONTAINER -->
-    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
 				<div class="our-team">
-					<img src="/assets/images/team/AudreBerry.jpg" alt="Audrey Berry">
+					<img src="/assets/images/team/AudreyBerry.jpg" alt="Audrey Berry">
 					<div class="team-content">
 						<h3 class="title">Audre Berry</h3>
 						<span class="post">Research Intern</span>							
@@ -47,8 +46,7 @@ title: Team
 				</div>
 			</div><!--- END COL -->
 		</div><!--- END ROW -->
-	</div><!--- END CONTAINER -->
-    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
 				<div class="our-team">
 					<img src="/assets/images/team/EricArreola.jpg" alt="Eric Arreola">
 					<div class="team-content">

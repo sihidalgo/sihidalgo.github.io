@@ -52,7 +52,7 @@ header_type: hero
 </ul>
 
 <div class="mycontainer-vertical">    
-<div class="myitem"><img style="max-width: 50%;" src="/assets/images/techniques/HidalgoJNC.jpg" alt="FSCV"></div>
+<div class="myitem"><img width="800" height="auto"  src="/assets/images/techniques/HidalgoJNC.jpg" alt="FSCV"></div>
 <div class="myitem">From Hidalgo et al., <i>Journal of Neurochemistry</i>, 2021</div>
 </div>
 </div>
@@ -72,7 +72,7 @@ header_type: hero
   <li><b>Hidalgo S</b> and Chiu JC. CRUMB: a shiny-based app to analyze rhythmic feeding in Drosophila using the FLIC system [version 2; peer review: 2 approved]. F1000Research 2023, 12:374 doi: <a href="https://doi.org/10.12688/f1000research.132587.2">10.12688/f1000research.132587.2</a></li>
 </ul>
 <div class="mycontainer-vertical">    
-<div class="myitem"><img style="max-width: 50%;" src="/assets/images/techniques/HidalgoCRUMB.png" alt="FSCV"></div>
+<div class="myitem"><img width="800" height="auto" src="/assets/images/techniques/HidalgoCRUMB.png" alt="FSCV"></div>
 <div class="myitem">From Hidalgo and Chiu, <i>F1000</i>, 2023</div>
 </div>
 </div>

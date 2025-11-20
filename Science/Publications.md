@@ -9,9 +9,9 @@ header_type: hero
 
 1. **Hidalgo, S. +**, Del Rio, R., Tabuloc, C. A., Perez Hernandez, L. A., **Berry, A. L. +**, Cai, Y. D., Lewald, K.M., & Chiu, J. C. (2025). Splicing of a core clock gene regulates seasonal adaptations by a winter gating mechanism. bioRxiv, 2025-11. doi: [https://doi.org/10.1101/2025.11.06.687099](https://doi.org/10.1101/2025.11.06.687099) **+ Hidalgo Lab member**
 
-2. Tabuloc, C. A., **Hidalgo, S. +**, Carlson, C. R., Zhang, H., Zalom, F. G., & Chiu, J. C. (2025). Global changes in alternative splicing are associated with insecticide response and resistance. bioRxiv, 2025-10. doi: [https://doi.org/10.1101/2025.10.22.684019](https://doi.org/10.1101/2025.10.22.684019)**+ Hidalgo Lab member**
+2. Tabuloc, C. A., **Hidalgo, S. +**, Carlson, C. R., Zhang, H., Zalom, F. G., & Chiu, J. C. (2025). Global changes in alternative splicing are associated with insecticide response and resistance. bioRxiv, 2025-10. doi: [https://doi.org/10.1101/2025.10.22.684019](https://doi.org/10.1101/2025.10.22.684019) **+ Hidalgo Lab member**
 
-3.  Elgueta-Reyes, M., **Hidalgo, S. +**, Campusano, J.M. (2025). Beyond vertebrates: *Drosophila melanogaster* as a model to study negative symptoms of schizophrenia. Frontiers in Psychiatry, 16, 1622281. doi: [https://doi.org/10.3389/fpsyt.2025.1622281](https://doi.org/10.3389/fpsyt.2025.1622281)**+ Hidalgo Lab member**
+3.  Elgueta-Reyes, M., **Hidalgo, S. +**, Campusano, J.M. (2025). Beyond vertebrates: *Drosophila melanogaster* as a model to study negative symptoms of schizophrenia. Frontiers in Psychiatry, 16, 1622281. doi: [https://doi.org/10.3389/fpsyt.2025.1622281](https://doi.org/10.3389/fpsyt.2025.1622281) **+ Hidalgo Lab member**
 
 4. Fuenzalida-Uribe, N., **Hidalgo, S. +**, Silva, B., Gandhi, S., Vo, D., Zamani, P., Holmes, T. C., Sayin, S., Grunwald Kadow, I. C., Hadjieconomou, D., O’Dowd, D. K., & Campusano, J. M. (2025). The innexin 7 gap junction protein contributes to synchronized activity in the *Drosophila* antennal lobe and regulates olfactory function. Frontiers in Neural Circuits, 19, 1563401. doi: [https://doi.org/10.3389/fncir.2025.1563401](https://doi.org/10.3389/fncir.2025.1563401) Previously published in *bioRxiv* doi: [https://doi.org/10.1101/2025.01.19.633780](https://doi.org/10.1101/2025.01.19.633780) **(Co-first author)** **+ Hidalgo Lab member**
 

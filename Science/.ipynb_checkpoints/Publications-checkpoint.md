@@ -32,8 +32,7 @@ header_type: hero
 12.	Tabuloc, C.A., Cai, Y.D., Kwok, R.S., Chan, E.C., **Hidalgo, S.**, Chiu, J.C. (2023). CLOCK and TIMELESS regulate rhythmic occupancy of the BRAHMA chromatin-remodeling protein at clock gene promoters. PLoS Genetics, 19(2): e1010649. [https://doi.org/10.1371/journal.pgen.1010649](https://doi.org/10.1371/journal.pgen.1010649) 
 
 13.	**Hidalgo, S.**, Anguiano, M., Tabuloc, C. A., & Chiu, J. C. (2023). Seasonal cues act through the circadian clock and pigment-dispersing factor to control EYES ABSENT and downstream physiological changes. Current biology, 33(4), 675–687.e5. [https://doi.org/10.1016/j.cub.2023.01.006](https://doi.org/10.1016/j.cub.2023.01.006)
-        
-   * Highlighted in: Helfrich-Förster C, Biological timing: Linking the circadian clock to the season, Current Biology, 33, R141-R143 [https://doi.org/10.1016/j.cub.2023.01.026](https://doi.org/10.1016/j.cub.2023.01.026)
+        * Highlighted in: Helfrich-Förster C, Biological timing: Linking the circadian clock to the season, Current Biology, 33, R141-R143 [https://doi.org/10.1016/j.cub.2023.01.026](https://doi.org/10.1016/j.cub.2023.01.026)
      
 14.	**Hidalgo, S.**, & Chiu, J. C. (2022). Glutamate and clock help bean bugs track seasonal reproductive changes. PLoS Biology, 20(9), e3001796. [https://doi.org/10.1371/journal.pbio.3001796](https://doi.org/10.1371/journal.pbio.3001796) **(Primer article)**
 

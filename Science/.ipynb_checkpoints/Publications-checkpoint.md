@@ -32,7 +32,8 @@ header_type: hero
 12.	Tabuloc, C.A., Cai, Y.D., Kwok, R.S., Chan, E.C., **Hidalgo, S.**, Chiu, J.C. (2023). CLOCK and TIMELESS regulate rhythmic occupancy of the BRAHMA chromatin-remodeling protein at clock gene promoters. PLoS Genetics, 19(2): e1010649. [https://doi.org/10.1371/journal.pgen.1010649](https://doi.org/10.1371/journal.pgen.1010649) 
 
 13.	**Hidalgo, S.**, Anguiano, M., Tabuloc, C. A., & Chiu, J. C. (2023). Seasonal cues act through the circadian clock and pigment-dispersing factor to control EYES ABSENT and downstream physiological changes. Current biology, 33(4), 675–687.e5. [https://doi.org/10.1016/j.cub.2023.01.006](https://doi.org/10.1016/j.cub.2023.01.006)
-        * Highlighted in: Helfrich-Förster C, Biological timing: Linking the circadian clock to the season, Current Biology, 33, R141-R143 [https://doi.org/10.1016/j.cub.2023.01.026](https://doi.org/10.1016/j.cub.2023.01.026)
+        
+    **Highlighted in:** Helfrich-Förster C, Biological timing: Linking the circadian clock to the season, Current Biology, 33, R141-R143 [https://doi.org/10.1016/j.cub.2023.01.026](https://doi.org/10.1016/j.cub.2023.01.026)
      
 14.	**Hidalgo, S.**, & Chiu, J. C. (2022). Glutamate and clock help bean bugs track seasonal reproductive changes. PLoS Biology, 20(9), e3001796. [https://doi.org/10.1371/journal.pbio.3001796](https://doi.org/10.1371/journal.pbio.3001796) **(Primer article)**
 
@@ -56,9 +57,9 @@ header_type: hero
 
 24.	Higham, J. P., **Hidalgo, S.**, Buhl, E., & Hodge, J. (2019). Restoration of olfactory memory in *Drosophila* overexpressing human Alzheimer's disease associated Tau by manipulation of L-Type Ca2+ Channels. Frontiers in Cellular Neuroscience, 13, 409. [https://doi.org/10.3389/fncel.2019.00409](https://doi.org/10.3389/fncel.2019.00409) **(Co-first author)**
 
-25.	**Hidalgo, S.**, Molina-Mateo, D., Escobedo, P., Zárate, R. V., Fritz, E., Fierro, A., Perez, E. G., Iturriaga-Vasquez, P., Reyes-Parada, M., Varas, R., Fuenzalida-Uribe, N., & Campusano, J. M. (2017). Characterization of a novel *Drosophila* SERT mutant: Insights on the contribution of the serotonin neural system to behaviors. ACS Chemical Neuroscience, 8(10), 2168–2179. [https://doi.org/10.1021/acschemneuro.7b00089](https://doi.org/10.1021/acschemneuro.7b00089) **(Co-first author)**
+26.	**Hidalgo, S.**, Molina-Mateo, D., Escobedo, P., Zárate, R. V., Fritz, E., Fierro, A., Perez, E. G., Iturriaga-Vasquez, P., Reyes-Parada, M., Varas, R., Fuenzalida-Uribe, N., & Campusano, J. M. (2017). Characterization of a novel *Drosophila* SERT mutant: Insights on the contribution of the serotonin neural system to behaviors. ACS Chemical Neuroscience, 8(10), 2168–2179. [https://doi.org/10.1021/acschemneuro.7b00089](https://doi.org/10.1021/acschemneuro.7b00089) **(Co-first author)**
 
-26.	Molina-Mateo, D., Fuenzalida-Uribe, N., **Hidalgo, S.**, Molina-Fernández, C., Abarca, J., Zárate, R. V., Escandón, M., Figueroa, R., Tevy, M. F., & Campusano, J. M. (2017). Characterization of a presymptomatic stage in a *Drosophila* Parkinson's disease model: Unveiling dopaminergic compensatory mechanisms. Biochimica et biophysica acta. Molecular basis of disease, 1863(11), 2882–2890. [https://doi.org/10.1016/j.bbadis.2017.07.013](https://doi.org/10.1016/j.bbadis.2017.07.013)
+27.	Molina-Mateo, D., Fuenzalida-Uribe, N., **Hidalgo, S.**, Molina-Fernández, C., Abarca, J., Zárate, R. V., Escandón, M., Figueroa, R., Tevy, M. F., & Campusano, J. M. (2017). Characterization of a presymptomatic stage in a *Drosophila* Parkinson's disease model: Unveiling dopaminergic compensatory mechanisms. Biochimica et biophysica acta. Molecular basis of disease, 1863(11), 2882–2890. [https://doi.org/10.1016/j.bbadis.2017.07.013](https://doi.org/10.1016/j.bbadis.2017.07.013)
 
 
 ## Book chapters

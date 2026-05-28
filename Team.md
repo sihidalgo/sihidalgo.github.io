@@ -44,6 +44,15 @@ title: Team
 					</div>
 				</div>
 			</div><!--- END COL -->
+	    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+				<div class="our-team">
+					<img src="/assets/images/team/AdamHoward.jpg" alt="Adam Howard">
+					<div class="team-content">
+						<h3 class="title">Adam Howard</h3>
+						<span class="post">Graduate Student, MBios</span>							
+					</div>
+				</div>
+			</div><!--- END COL -->
             <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
 				<div class="our-team">
 					<img src="/assets/images/team/ThanHuston.jpg" alt="Than Huston">

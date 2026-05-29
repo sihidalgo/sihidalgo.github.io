@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Hidalgo Lab | Washington State University</title>
+		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
+		<link>http://localhost:4000/</link>
+		<description></description>
+		<language>en-US</language>
+		<copyright>(c) 2026, Hidalgo Lab</copyright>	
+		<pubDate>Thu, 28 May 2026 17:23:20 -0700</pubDate>
+		<lastBuildDate>Thu, 28 May 2026 17:23:20 -0700</lastBuildDate>
+		<category>blog</category>
+		<ttl>60</ttl>
+		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>Hidalgo Lab | Washington State University</title>
+			<url>https://github.com/sihidalgo.png</url>
+			<link>http://localhost:4000/</link>
+			<description></description>
+		</image><item>
+			<title>WSU CVM - Q&amp;A with Eric Arreola</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>Our very own Eric Arreola has been highlighted on the WSU CVM website. Check out the Q&amp;A at <a href="https://vetmed.wsu.edu/qa-with-neuroscience-major-eric-arreola/">WSU News</a></p>
+
+<p><img src="/assets/images/team/EricArreola.jpg" alt="Eric Arreola" /></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/2026/04/28/WSU-CVM-Q&A-with-Eric-Arreola-Copy1.html</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">http://localhost:4000/2026/04/28/WSU-CVM-Q&A-with-Eric-Arreola-Copy1.html</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 -0700</pubDate>
+		</item><item>
+			<title>Congratulations to Rudraksh!</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>Congratulations to Mr. Rudraksh Rajvanshi for receiving the Auvil Scholars Fellowship to work in our lab. Way to go, Rudraksh!</p>
+
+<p><img src="/assets/images/team/RudrakshRajvanshi.jpg" alt="Rudraksh Rajvanshi" /></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/2026/02/27/Congratulations-to-Rudraksh!.html</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">http://localhost:4000/2026/02/27/Congratulations-to-Rudraksh!.html</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 -0800</pubDate>
+		</item><item>
+			<title>Two new articles on bioRxiv!</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>2 min.</p>
+				<div><p>Two new articles have been published in bioRxiv! In collaboration with the Chiu Lab at UC Davis, we delve into the reach of splicing as an adaptive response. 
+Congratulations to <strong>Dr. Christine H. Tabuloc</strong> and <strong>Audrey Berry</strong>.</p>
+
+<p><br />
+Here are the abstracts and links for the articles:</p>
+
+<h2 id="global-changes-in-alternative-splicing-are-associated-with-insecticide-response-and-resistance"><strong>“Global changes in alternative splicing are associated with insecticide response and resistance”</strong></h2>
+
+<p>Alternative splicing (AS) promotes phenotypic plasticity to adverse conditions by altering transcripts involved in stress adaptation. However, whether changes in AS occur transcriptome-wide or in only a few key genes is unclear. Agricultural insect pests are regularly exposed to xenobiotic stress from insecticide applications and thus develop resistance. We show that the pest <em>Drosophila suzukii</em>, resistant to multiple insecticides, exhibits increased global AS events compared to susceptible flies. Alternatively spliced genes are enriched in multiple processes including stress response and insecticide resistance, suggesting AS is a mechanism underlying insecticide resistance development. Furthermore, sublethal insecticide exposure promotes AS events even in the absence of substantial differential gene expression. This study provides insights into the role of AS in enabling insects to diversify genome function to survive acute insecticide treatment and to develop xenobiotic resistance.</p>
+
+<p><img src="/blog/images/2025_11_18_Newpublications_Img1.png" alt="timsplicing" />
+<a href="https://doi.org/10.1101/2025.10.22.684019">https://doi.org/10.1101/2025.10.22.684019</a></p>
+
+<h2 id="splicing-of-a-core-clock-gene-regulates-seasonal-adaptations-by-a-winter-gating-mechanism"><strong>“Splicing of a core clock gene regulates seasonal adaptations by a winter gating mechanism”</strong></h2>
+
+<p>Seasons bring changes to the environment. Many organisms adjust their physiology and behavior in response to seasonal changes in order to survive. Although the molecular mechanisms mediating the integration of seasonal cues are still unclear, the working model indicates the involvement of the circadian clock. Notably, the circadian neuropeptide Pigment Dispersing Factor (PDF), an output of the circadian clock, has been shown to alter its expression and activity in response to seasonal changes to facilitate seasonal adaptations in insects. Here, we show that the alternative splicing (AS) of a circadian clock gene, <em>timeless</em> (<em>tim</em>), regulates the seasonal responses of PDF signaling in <em>Drosophila melanogaster</em>. We first showed that tim-sc, the predominant isoform in winter, is regulated by photoperiod in addition to temperature, while the expression of the canonical <em>tim-l</em> isoform is primarily sensitive to temperature. We then demonstrated that <em>tim-sc</em> maintains physiology and behavior in a “winter lock” state by modulating PDF. At the cellular and molecular level, TIM-SC behavior differs from the canonical TIM-L. Interestingly, flies expressing tim-sc did not fully phenocopy wild-type flies reared in winter conditions, suggesting that other mechanisms are at play in regulating seasonal adaptations, despite the importance of tim AS.</p>
+
+<p><img src="/blog/images/2025_11_18_Newpublications_Img2.png" alt="timsplicing" />
+<a href="https://doi.org/10.1101/2025.11.06.687099">https://doi.org/10.1101/2025.11.06.687099</a></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/2025/11/18/New-publications.html</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">http://localhost:4000/2025/11/18/New-publications.html</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 -0800</pubDate>
+		</item><item>
+			<title>The Hidalgo Lab is coming to WSU!</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>We are excited to share that the Hidalgo Lab is arriving at IPN at WSU in July 2025!</p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/2024/12/03/Hidalgo-Lab-Opening.html</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">http://localhost:4000/2024/12/03/Hidalgo-Lab-Opening.html</guid>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 -0800</pubDate>
+		</item><item>
+			<title>The Hidalgo Lab featured in The Transmitter&#39;s Liftoff!</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>During December 2024, the Hidalgo Lab was featured in The Transmitter’s “Liftoff” series. This series focuses on highlighting early-career researchers starting their neuroscience lab!</p>
+
+<p>See it on: <a href="https://www.thetransmitter.org/liftoff-new-lab-alerts-early-career-neuroscientists/#:~:text=December%202024">Liftoff</a></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/2024/12/03/Hidalgo-Lab-Liftoff.html</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">http://localhost:4000/2024/12/03/Hidalgo-Lab-Liftoff.html</guid>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 -0800</pubDate>
+		</item></channel>
+</rss>

@@ -115,10 +115,8 @@ navbar:
         url   : /Science/Techniques
   - title   : Team
     url     : /Team
-    
   - title   : Gallery
     url     : /Gallery
-    
   - title   : News
     url     : /blog
   - title   : Contact

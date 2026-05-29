@@ -44,6 +44,15 @@ title: Team
 					</div>
 				</div>
 			</div><!--- END COL -->
+<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+				<div class="our-team">
+					<img src="/assets/images/team/RafaellaZarate.jpeg" alt="Rafaella Zárate">
+					<div class="team-content">
+						<h3 class="title">Rafaella Zárate, Ph.D.</h3>
+						<span class="post">Visiting Professor</span>							
+					</div>
+				</div>
+			</div><!--- END COL -->
 	    <div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
 				<div class="our-team">
 					<img src="/assets/images/team/AdamHoward.jpg" alt="Adam Howard">

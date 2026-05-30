@@ -113,7 +113,7 @@ Parkinson's, Alzheimer's, depression, and schizophrenia are among the many disor
 <h2>Funding</h2>
 <div class="myitem"><img width="500" height="auto" src="/assets/images/research/ninds-logo.png" alt="NINDS"></div>
 <div class="myitem"><img width="500" height="auto" src="/assets/images/research/pew-logo.png" alt="Pew"></div>
-<div class="myitem"><img width="500" height="auto" src="/assets/images/research/vmed.png" alt="CVM"></div>
+<div class="myitem"><img width="250" height="auto" src="/assets/images/research/vmed.png" alt="CVM"></div>
 </div>
 
 <br>

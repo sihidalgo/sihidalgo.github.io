@@ -48,7 +48,8 @@ header_type: hero
 <br>
 <ul>
   <li>Fuenzalida-Uribe, N.,<b>Hidalgo, S.</b>, Varas, R., Campusano, J.M. (2016). Study of the Contribution of Nicotinic Receptors to the Release of Endogenous Biogenic Amines in Drosophila Brain. In: Li, M. (eds) Nicotinic Acetylcholine Receptor Technologies. Neuromethods, vol 117. Humana Press, New York, NY. doi: <a href="https://doi.org/10.1007/978-1-4939-3768-4_4">https://doi.org/10.1007/978-1-4939-3768-4_4</a></li>
-  <li><b>Hidalgo, S.</b>, Fuenzalida-Uribe, N., Molina-Mateo, D., Escobar, A. P., Oliva, C., España, R. A., Andrés, M. E., & Campusano, J. M. (2021). Study of the release of endogenous amines in Drosophila brain in vivo in response to stimuli linked to aversive olfactory conditioning. Journal of neurochemistry, 156(3), 337–351. doi: <a href="https://doi.org/10.1111/jnc.15109">10.1111/jnc.15109</a></li>
+  <li><b>Hidalgo, S.</b>, Fuenzalida-Uribe, N., Molina-Mateo, D., Escobar, A. P., Oliva, C., España, R. A., Andrés, M. E., & Campusano, J. M. (2021). Study of the release of endogenous amines in Drosophila brain in vivo in response to stimuli linked to aversive olfactory conditioning. Journal of Neurochemistry, 156(3), 337–351. doi: <a href="https://doi.org/10.1111/jnc.15109">10.1111/jnc.15109</a></li>
+  <li> Huston, N. J., Berry, A. L., Sharma, P. N., Armendariz, M., Campusano, J. M., Tabuloc, C. A., Zárate, R. V., <b>Hidalgo, S.</b>  (2026). Using High-Performance Liquid Chromatography to Study Alterations in Biogenic Amines in Drosophila Models of Brain Disorders.  J. Vis. Exp., 156(3), 337–351. doi: <a href="https://doi.org/10.3791/74087">10.3791/74087</a></li>
 </ul>
 
 <div class="mycontainer-vertical">    
